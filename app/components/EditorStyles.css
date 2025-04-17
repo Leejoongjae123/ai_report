@@ -1,0 +1,18 @@
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.ProseMirror {
+  outline: none !important;
+}
+
+.ProseMirror-focused {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
